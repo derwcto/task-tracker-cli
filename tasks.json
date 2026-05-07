@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Configurar mi gestor de tareas",
+        "status": "todo",
+        "createdAt": "2026-05-06 21:51:26",
+        "updatedAt": "2026-05-06 21:51:26"
+    },
+    {
+        "id": 2,
+        "description": "Configurar mi gestor de tareas",
+        "status": "done",
+        "createdAt": "2026-05-06 21:51:30",
+        "updatedAt": "2026-05-06 21:53:14"
+    }
+]
