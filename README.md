@@ -2,6 +2,9 @@
 
 Una herramienta sencilla de línea de comandos para gestionar tareas, construida en Python sin dependencias externas.
 
+## URL del Proyecto
+https://github.com/derwcto/task-tracker-cli
+
 ## Características
 - Agregar, actualizar y eliminar tareas.
 - Cambiar el estado a `in-progress` o `done`.
